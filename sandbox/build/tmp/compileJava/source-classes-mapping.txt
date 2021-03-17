@@ -1,2 +1,2 @@
-m.java
- m
+newname.java
+ newname
