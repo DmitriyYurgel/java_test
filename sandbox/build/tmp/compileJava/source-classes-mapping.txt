@@ -1,2 +1,2 @@
-newname.java
- newname
+ru/stqa/pft/sandbox/newname.java
+ ru.stqa.pft.sandbox.newname
